@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FilmesAPI",
+    "\\FilmesAPI\\Controllers",
+    "\\FilmesAPI\\Data",
+    "\\FilmesAPI\\Migrations",
+    "\\FilmesAPI\\Models"
+  ],
+  "SelectedNode": "\\FilmesAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

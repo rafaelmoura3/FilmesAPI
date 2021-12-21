@@ -1,0 +1,96 @@
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.exe
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\ref\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\scopedcss\bundle\FilmesAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Curso C#\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\appsettings.json
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.exe
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.deps.json
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.dev.json
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\ref\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FilmesAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\MySql.Data.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\ZstdNet.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\scopedcss\bundle\FilmesAPI.styles.css
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.Manifest.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
