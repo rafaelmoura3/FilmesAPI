@@ -58,7 +58,8 @@ namespace FilmesAPI.Controllers
             Filme filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
             if(filme != null)
             {
-                /*
+
+
                 ReadFilmeDto filmeDto = new ReadFilmeDto
                 {
                     Id = filme.Id,
@@ -67,12 +68,14 @@ namespace FilmesAPI.Controllers
                     Diretor = filme.Diretor,
                     Duracao = filme.Duracao,
                     HoraDaConsulta = DateTime.Now
-                };*/
-                ReadFilmeDto filmeDto = _mapper.Map<ReadFilmeDto>(filme);
+                };
 
+                //sfilmeDto.HoraDaConsulta = DateTime.Now;
+                //ReadFilmeDto filmeDto = _mapper.Map<ReadFilmeDto>(filme);
+                //return Ok(filmeDto);
                 return Ok(filme);
             }
-            return NotFound();
+            return NotFound();//retorno codigos HTTP
         }
 
         [HttpPut("{id}")]
@@ -83,9 +86,9 @@ namespace FilmesAPI.Controllers
             {
                 return NotFound();
             }
-            _mapper.Map(filmeDto, filme);///subescreve as informações de filme por filmeDto
+            //_mapper.Map(filmeDto, filme);///subescreve as informações de filme por filmeDto
             _context.SaveChanges();
-            return NoContent();
+            return NoContent(); //retorno codigos HTTP
         }
 
 
@@ -98,7 +101,7 @@ namespace FilmesAPI.Controllers
                 return NotFound();
             }
            _context.Remove(filme);
-            _context.SaveChanges();
+           _context.SaveChanges();
             return NoContent();
         }
 

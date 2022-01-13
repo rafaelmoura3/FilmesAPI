@@ -14,7 +14,7 @@ namespace FilmesAPI.Models
         public string Diretor { get; set; }
         [StringLength(30, ErrorMessage = "O genero nao pode passar de 30 char")]
         public string Genero { get; set; }
-        [Range(1, 600, ErrorMessage = "Campo Titulo é OBRIGATORIO!")]
+        [Range(2, 600, ErrorMessage = "Campo Titulo é OBRIGATORIO!")]
         public int Duracao { get; set; }
 
     }
